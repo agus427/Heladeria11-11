@@ -273,7 +273,7 @@ body{
 	grid-template:
 	"header header header"        50px
 	"nav nav nav"                 50px
-	"section section section"   640px
+	"section section section"   800px
 	"footer footer footer" 		  100px 
 	;
 }
